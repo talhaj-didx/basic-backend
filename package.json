@@ -1,0 +1,25 @@
+{
+  "name": "basic-backend",
+  "version": "1.0.0",
+  "description": "A simple backend ",
+  "homepage": "https://github.com/talhaj-didx/basic-backend#readme",
+  "bugs": {
+    "url": "https://github.com/talhaj-didx/basic-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhaj-didx/basic-backend.git"
+  },
+  "license": "ISC",
+  "author": "Talha Jamil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
